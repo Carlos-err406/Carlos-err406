@@ -9,9 +9,6 @@
 <!-- <a>
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a> -->
-<a href="https://www.facebook.com/carlosdaniel.vilasecaillnait/">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=carlos-err406&style=flat-square&color=blue" alt=""/>
 <h1>
